@@ -40,12 +40,12 @@ public class Lista1ex6 {
 
 		
 		//realizar o calculo da raiz quadrada
-		raiz = mat.raiz(soma, 2)
+	  
 		
 		//Saida
 
-		escreva("A distância entre os pontos indicados é de: ", raiz)
-		 */
+		System.out.printf("A distância entre os pontos indicados é de: ", raiz);
+	
 	}
 
 }
