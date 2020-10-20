@@ -22,14 +22,14 @@ public class Ex2 {
 				
 			
 			}
-			
+			tec.close();	
 		}
 		System.out.println();
 		System.out.printf("%d numeros são Pares",numPar);
 		System.out.println();
 		System.out.printf("%d numeros são Ímpares",numImpar);
 		
-		tec.close();
+		
 	}
 
 }

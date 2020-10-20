@@ -27,7 +27,7 @@ public class ex4 {
 		final int LIMITE=1;
 		byte sexo;
 		byte tipoHumor;
-		int totalF, totalM, totalO, pessoasCalmas=0, mulheresNervosas=0, homensAgressivos=0, outrosCalmos=0, pessoasNervosasAcima40Anos=0, calmasMenor18=0;
+		int  pessoasCalmas=0, mulheresNervosas=0, homensAgressivos=0, outrosCalmos=0, pessoasNervosasAcima40Anos=0, calmasMenor18=0;
 		
 		int contador=0;
 		System.out.println("--------------------SISTEMA DE PESQUISA-------------------");

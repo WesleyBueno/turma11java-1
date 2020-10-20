@@ -13,7 +13,7 @@ public class Ex3 {
 		Scanner tec= new Scanner(System.in);
 		
 		int idade=0;
-		int contador=0;
+		
 		int totalMenor21=0;
 		int	totalMaior50=0;
 		
@@ -33,7 +33,7 @@ public class Ex3 {
 	    	totalMaior50=(idade+1);
 	    }
 	    
-	    contador++;
+	   
 	    
 	    System.out.println();
 	    System.out.printf("\nO total de pessoas com idade abaixo dos 21 é: ", totalMenor21);
